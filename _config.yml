@@ -1,0 +1,5 @@
+pygments: true
+name: Quantum Leap
+description: Bhagavan Das's  blog
+url: http://dasbh.github.com
+markdown: rdiscount
